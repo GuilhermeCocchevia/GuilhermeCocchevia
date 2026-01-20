@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou o Guilherme
+Atualmente estou no 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Mogi Mirim e trabalho como Assistente de Suporte Técnico na Syrius.
 
-<!--
-**GuilhermeCocchevia/GuilhermeCocchevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objetivo
+Estou me especializando no ecossistema Apple para me tornar um Desenvolvedor iOS.
 
-Here are some ideas to get you started:
+🛠 Tecnologias e Estudos
+Linguagens: Swift (Em aprendizado), C, Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks: SwiftUI.
+
+Ferramentas: Xcode, Git, GitHub.
+
+📬 Como me encontrar: https://www.linkedin.com/in/guilhermerocha-dev
